@@ -59,8 +59,6 @@ A calculator app that is featuring different calculators on Android phone.
    * Performs addition, subtraction, multiplication, and division
 * Geometry Calculator Screen 
    * Allows user to choose calculation and shape to perform geometry calculation
-* Matrix Calculator Screen.
-   * Allows user to input matrix dimension to solve matrix problem
 * Conversion Calculator Screen
    * Allows user to choose from unit to unit to want to convert and calculate the answer.
 
